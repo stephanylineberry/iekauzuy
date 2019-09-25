@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ithohfeich.mahapps.dev/sitemap.xml
